@@ -1,0 +1,15 @@
+C:\Users\magda\source\repos\swappedValues\swappedValues\bin\Debug\net6.0\swappedValues.exe
+C:\Users\magda\source\repos\swappedValues\swappedValues\bin\Debug\net6.0\swappedValues.deps.json
+C:\Users\magda\source\repos\swappedValues\swappedValues\bin\Debug\net6.0\swappedValues.runtimeconfig.json
+C:\Users\magda\source\repos\swappedValues\swappedValues\bin\Debug\net6.0\swappedValues.dll
+C:\Users\magda\source\repos\swappedValues\swappedValues\bin\Debug\net6.0\swappedValues.pdb
+C:\Users\magda\source\repos\swappedValues\swappedValues\obj\Debug\net6.0\swappedValues.csproj.AssemblyReference.cache
+C:\Users\magda\source\repos\swappedValues\swappedValues\obj\Debug\net6.0\swappedValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\source\repos\swappedValues\swappedValues\obj\Debug\net6.0\swappedValues.AssemblyInfoInputs.cache
+C:\Users\magda\source\repos\swappedValues\swappedValues\obj\Debug\net6.0\swappedValues.AssemblyInfo.cs
+C:\Users\magda\source\repos\swappedValues\swappedValues\obj\Debug\net6.0\swappedValues.csproj.CoreCompileInputs.cache
+C:\Users\magda\source\repos\swappedValues\swappedValues\obj\Debug\net6.0\swappedValues.dll
+C:\Users\magda\source\repos\swappedValues\swappedValues\obj\Debug\net6.0\refint\swappedValues.dll
+C:\Users\magda\source\repos\swappedValues\swappedValues\obj\Debug\net6.0\swappedValues.pdb
+C:\Users\magda\source\repos\swappedValues\swappedValues\obj\Debug\net6.0\swappedValues.genruntimeconfig.cache
+C:\Users\magda\source\repos\swappedValues\swappedValues\obj\Debug\net6.0\ref\swappedValues.dll
